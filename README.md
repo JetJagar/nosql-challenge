@@ -1,9 +1,4 @@
 # nosql-challenge
-
-Certainly! Here’s a structured README for your GitHub repository based on the project details you provided.
-
----
-
 # UK Food Hygiene Ratings Analysis
 
 ## Overview
