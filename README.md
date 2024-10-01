@@ -1,4 +1,3 @@
-# nosql-challenge
 # UK Food Hygiene Ratings Analysis
 
 ## Overview
